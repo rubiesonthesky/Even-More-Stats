@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Even More Stats</name>
+    <directory>even more stats</directory>
+    <id>1172310050</id>
+    <description>Adds DPS and effective range stats to HUD. 
+Calculations are based on Rebirth Wiki information. Code based loosely on Run Status mod.</description>
+    <version>1.1</version>
+    <visibility>Friends Only</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>
